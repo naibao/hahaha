@@ -7,7 +7,6 @@ import java.sql.SQLException;
 
 import org.zhangmeng.bean.Post;
 import org.zhangmeng.bean.User;
-
 import org.zhangmeng.util.DBUtil;
 
 public class UserDao {

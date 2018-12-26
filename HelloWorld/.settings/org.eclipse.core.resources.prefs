@@ -1,2 +1,4 @@
 eclipse.preferences.version=1
 encoding//src/org/zhangmeng/filter/AuthenticationFilter.java=UTF-8
+encoding//src/org/zhangmeng/filter/EncodingFilter.java=UTF-8
+encoding//src/org/zhangmeng/filter/ZipFilter.java=UTF-8
