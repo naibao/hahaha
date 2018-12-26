@@ -68,7 +68,7 @@ public class UpdateAvatarServlet extends HttpServlet {
 		if(true) {
 			HttpSession session =request.getSession(true);
 			session.setAttribute("User",user);
-			request.getRequestDispatcher("genghuantouxian.jsp").forward(request, response);
+			request.getRequestDispatcher("jkjkjk.jsp").forward(request, response);
 		}
 		
 		response.getWriter().append("Served at: ").append(request.getContextPath());

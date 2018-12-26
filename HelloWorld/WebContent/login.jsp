@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8" import="org.chenweifeng.util.*" %>
+    pageEncoding="UTF-8" import="org.zhangmeng.util.*" %>
 <%@ taglib prefix="et" uri="/WEB-INF/jsp2-example-taglib.tld" %>
 
 <!doctype html>
